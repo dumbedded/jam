@@ -1,2 +1,1 @@
-# jam
-jam
+# some solo code jamming
